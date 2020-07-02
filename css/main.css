@@ -1,0 +1,614 @@
+.front-hero-section {
+  height: 50vh;
+  background-image: url(images/front-page/new-family-photo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.front-hero-header {
+  color: #fcfcfc;
+  font-size: 2.5rem; }
+
+.front-help-the-blind-img {
+  height: 300px;
+  width: 100%;
+  background-image: url(images/front-page/new-front-grandpa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 3px; }
+
+.front-help-the-blind-header {
+  font-weight: 300; }
+
+.front-news-section-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 3px; }
+
+.front-news-item-li {
+  height: 15rem; }
+
+.recipient-stories-img {
+  background-image: url(images/front-page/recipient-stories.jpg); }
+
+.become-donor-img {
+  background-image: url(images/front-page/become-donor.jpg); }
+
+.grief-support-img {
+  background-image: url(images/front-page/grief-support.jpg); }
+
+.tissue-safety-img {
+  background-image: url(images/front-page/tissue-safety.jpg); }
+
+.our-services-img {
+  background-image: url(images/front-page/our-services.jpg); }
+
+.surgeon-forms-img {
+  background-image: url(images/front-page/surgeon-forms.jpg); }
+
+.front-contact-image {
+  height: 200px;
+  width: 100%;
+  background-image: url(images/front-page/contact.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 3px; }
+
+@media screen and (max-width: 768px) {
+  .front-hero-mobile-background {
+    background: #025182;
+    background: linear-gradient(0deg, #003e9c 0%, #0076ac 100%); }
+  .front-hero-section {
+    height: 50vh; } }
+
+@media screen and (max-width: 575px) {
+  .front-hero-section {
+    height: 70vh; }
+  .front-hero-header {
+    font-size: 2rem; }
+  .front-help-the-blind-header {
+    margin-top: 2rem; }
+  .front-news-item-li {
+    height: auto;
+    display: block;
+    padding-bottom: 3rem; } }
+
+.single-post-content p {
+  margin-bottom: 2rem;
+  line-height: 2rem;
+  font-size: 1.2rem; }
+
+@media screen and (max-width: 768px) {
+  .recommended-posts-card {
+    margin-bottom: 3rem; } }
+
+.community-recipient {
+  background-image: url(images/community/recipient.jpg); }
+
+.community-grief {
+  background-image: url(images/community/grief.jpg); }
+
+.community-events {
+  background-image: url(images/community/events.jpg); }
+
+.community-blog {
+  background-image: url(images/community/blog.jpg); }
+
+.community-volunteer {
+  background-image: url(images/community/volunteer.jpg); }
+
+.community-title-header {
+  background-image: url(images/community/title.jpg); }
+
+.technical-title {
+  background-image: url(images/technical/title.jpg); }
+
+.technical-safety {
+  background-image: url(images/technical/safety.jpg); }
+
+.technical-services {
+  background-image: url(images/technical/services.jpg); }
+
+.technical-forms {
+  background-image: url(images/technical/forms.jpg); }
+
+.technical-licensure {
+  background-image: url(images/technical/licensure.jpg); }
+
+.about-title {
+  background-image: url(images/about/facility.jpg); }
+
+.about-service {
+  background-image: url(images/about/service.jpg); }
+
+.about-team {
+  background-image: url(images/about/team.jpg); }
+
+.about-board {
+  background-image: url(images/about/board.jpg); }
+
+.about-facility {
+  background-image: url(images/about/facility.jpg); }
+
+.about-donation {
+  background-image: url(images/about/donation.jpg); }
+
+.recipient-stories-title-header {
+  background-image: url(images/categories/recipients.jpg); }
+
+.grief-support-title-header {
+  background-image: url(images/community/grief.jpg); }
+
+.register-today-title-header {
+  background-image: url(images/register-today/register-today.jpg); }
+
+.about-donation-title-header {
+  background-image: url(images/about/about-donation/about-donation.jpg); }
+
+.we-serve-title-header {
+  background-image: url(images/about/service.jpg); }
+
+.our-team-title-header {
+  background-image: url(images/about/team.jpg); }
+
+.volunteer-title-header {
+  background-image: url(images/community/volunteer.jpg); }
+
+.forms-header {
+  background-image: url(images/technical/forms.jpg); }
+
+.oh-no-title-header {
+  background-image: url(images/default.jpg); }
+
+.grief-share-img {
+  background-image: url(images/community/grief-support/griefshare.jpg); }
+
+.hospice-img {
+  background-image: url(images/community/grief-support/hospice.jpg);
+  border: 1px solid #c7c7c7; }
+
+.register-icon {
+  font-size: 100px; }
+
+.team-card-img {
+  height: 250px;
+  width: 65%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 3px; }
+
+.team-card-email {
+  font-size: .9rem;
+  word-wrap: break-word; }
+
+.team-card {
+  width: 100%; }
+
+.license-image {
+  box-shadow: 0 0 2px #c7c7c7;
+  transition: box-shadow .3s ease;
+  border-radius: 3px; }
+
+.license-image:hover {
+  box-shadow: 0 0 6px #c7c7c7; }
+
+@media screen and (max-width: 992px) {
+  .team-card-img {
+    width: 100%; } }
+
+@media screen and (max-width: 768px) {
+  .team-card-img {
+    width: 70%;
+    height: 200px; } }
+
+@media screen and (max-width: 575px) {
+  .team-card {
+    width: 70%;
+    margin: auto;
+    text-align: center; }
+  .team-card-img {
+    height: 300px;
+    margin: auto; }
+  .team-title {
+    width: 100%;
+    text-align: center; } }
+
+/*******************
+FORM
+*******************/
+label {
+  font-size: .9rem;
+  display: flex;
+  flex-direction: column; }
+
+.wpcf7-text {
+  margin-top: .5rem;
+  border: 1px solid #c7c7c7;
+  height: 2rem;
+  padding: .2rem;
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fcfcfc;
+  width: 100%; }
+
+.wpcf7-text:focus {
+  outline: none;
+  border: 2px solid #5D9BF7; }
+
+.wpcf7-textarea {
+  margin-top: .5rem;
+  border: 1px solid #c7c7c7;
+  font-size: 1rem;
+  padding: .2rem;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fcfcfc;
+  width: 100%;
+  height: 200px; }
+
+.wpcf7-textarea:focus {
+  outline: none;
+  border: 2px solid #5D9BF7; }
+
+.wpcf7-submit {
+  margin-left: 1rem;
+  padding: 5px 22px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: .8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: #5D9BF7 solid 2px;
+  border-radius: 50rem;
+  color: #5D9BF7;
+  transition: .5s ease;
+  background-color: #fcfcfc; }
+
+.wpcf7-submit:hover {
+  cursor: pointer;
+  background-color: #5D9BF7;
+  color: #fcfcfc; }
+
+.wpcf7-submit:focus {
+  outline: none;
+  cursor: pointer;
+  background-color: #5D9BF7;
+  color: #fcfcfc; }
+
+.reason-for-contact {
+  margin-top: .5rem;
+  font-size: 1rem; }
+
+.wpcf7-select {
+  border: 1px solid #c7c7c7;
+  padding: 4px 7px; }
+
+.wpcf7-select:focus {
+  outline: none;
+  border: 2px solid #5D9BF7; }
+
+.wpcf7-date {
+  border: 1px solid #c7c7c7;
+  padding: 5px 7px;
+  line-height: 1.1rem; }
+
+.wpcf7-date:focus {
+  outline: none;
+  border: 2px solid #5D9BF7; }
+
+.wpcf7-number {
+  border: 1px solid #c7c7c7;
+  padding: 5px 7px;
+  line-height: 1.1rem; }
+
+.wpcf7-number:focus {
+  outline: none;
+  border: 2px solid #5D9BF7; }
+
+.wpcf7-not-valid-tip {
+  margin-top: 1rem; }
+
+.wpcf7-radio {
+  line-height: 2rem; }
+
+.wpcf7-checkbox {
+  line-height: 2.3rem; }
+
+span.wpcf7-list-item {
+  display: block; }
+
+/*******************
+GENERAL
+*******************/
+body {
+  background: #fcfcfc;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: .05rem;
+  color: #363636; }
+
+.page-content {
+  flex: 1; }
+
+.column-spacer {
+  margin: 1rem 0; }
+
+.divider {
+  height: 1px;
+  background-color: #c7c7c7; }
+
+.wp-block-image img {
+  width: 100%;
+  height: auto; }
+
+.wp-block-group {
+  margin: 2.5rem 0; }
+
+/*******************
+TYPOGRAPHY
+*******************/
+h1 {
+  font-weight: 800; }
+
+.orange-link {
+  color: #FF9B6A;
+  transition: .3s ease; }
+  .orange-link:hover {
+    color: #ff7937; }
+
+.orange-text {
+  color: #FF9B6A; }
+
+.caps {
+  text-transform: uppercase; }
+
+ul {
+  list-style: none; }
+
+p {
+  font-size: 1.1rem; }
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 300; }
+
+h2 {
+  font-size: 2.3rem;
+  font-weight: 300; }
+
+h3 {
+  font-size: 2.0rem;
+  font-weight: 300; }
+
+h4 {
+  font-size: 1.8rem;
+  font-weight: 300; }
+
+h5 {
+  font-size: 1.5rem;
+  font-weight: 300; }
+
+h6 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7rem; }
+
+.section-header .tiny-text {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #5D9BF7;
+  font-size: .7rem;
+  padding-left: .1rem; }
+
+.section-header .big-text {
+  font-weight: 300;
+  text-transform: capitalize;
+  font-size: 2.5rem; }
+
+.page-title {
+  color: #fcfcfc;
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: .13rem; }
+
+.page-subtitle {
+  color: #FF9B6A;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 1.8rem; }
+
+.event-subtitle {
+  font-size: 1.4rem;
+  line-height: 2.3rem;
+  font-weight: 400; }
+
+a {
+  transition: .3s ease; }
+
+.blue {
+  color: #5D9BF7; }
+
+.orange {
+  color: #FF9B6A; }
+
+.white {
+  color: #fcfcfc; }
+
+a.orange {
+  color: #FF9B6A; }
+  a.orange:hover {
+    color: #ff7937;
+    text-decoration: none; }
+
+a.blue {
+  color: #5D9BF7; }
+  a.blue:hover {
+    color: #2c7df5;
+    text-decoration: none; }
+
+/*******************
+BUTTONS
+*******************/
+.btn {
+  border-radius: 100px;
+  padding: 5px 25px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: .9rem; }
+  .btn:hover {
+    cursor: pointer; }
+
+.btn-outline-primary {
+  border: 2px solid #5D9BF7; }
+  .btn-outline-primary:hover {
+    background-color: #5D9BF7;
+    border-color: #5D9BF7; }
+    .btn-outline-primary:hover a {
+      color: #fcfcfc;
+      text-decoration: none; }
+  .btn-outline-primary a {
+    color: #5D9BF7; }
+
+.btn-warning {
+  background-color: #FF9B6A;
+  border-color: #FF9B6A;
+  color: #fcfcfc; }
+  .btn-warning:hover {
+    background-color: #ff7937;
+    border-color: #ff7937;
+    color: #fcfcfc; }
+  .btn-warning a {
+    color: #fcfcfc; }
+    .btn-warning a:hover {
+      text-decoration: none; }
+
+.btn-outline-warning {
+  border: 2px solid #FF9B6A; }
+  .btn-outline-warning:hover {
+    background-color: #FF9B6A;
+    border-color: #FF9B6A; }
+    .btn-outline-warning:hover a {
+      color: #fcfcfc;
+      text-decoration: none; }
+  .btn-outline-warning a {
+    color: #FF9B6A; }
+
+/*******************
+HEADER
+*******************/
+.title-header {
+  height: 20rem;
+  background-size: cover;
+  background-position: center; }
+
+.title-header-text-area {
+  background-color: #0000008f; }
+
+/*******************
+CARDS
+*******************/
+.card-img {
+  height: 180px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 3px; }
+
+.card-description {
+  font-weight: 300; }
+
+.card-subtitle {
+  font-weight: 600;
+  font-size: .9rem;
+  color: #FF9B6A; }
+
+.card-subtitle-black {
+  font-weight: 600;
+  font-size: .9rem; }
+
+/*******************
+NAVBAR
+*******************/
+.custom-logo {
+  height: 100px;
+  width: 260px; }
+
+.nav-item {
+  font-size: 1rem;
+  margin-left: 1.3rem; }
+
+.mobile-logo {
+  display: none; }
+
+.navbar {
+  background-color: #fcfcfc; }
+
+/*******************
+FOOTER
+*******************/
+footer {
+  background-color: #5D9BF7;
+  padding: 2rem;
+  color: #fcfcfc;
+  font-size: .8rem;
+  font-weight: 800; }
+  footer a {
+    color: #fcfcfc; }
+    footer a:hover {
+      color: #c9c9c9;
+      text-decoration: none; }
+
+.footer-title {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin-bottom: 2rem; }
+
+.footer-col li {
+  margin-bottom: .4rem; }
+
+.social-buttons {
+  font-size: 1.5rem;
+  width: 100%;
+  text-align: right; }
+  .social-buttons a {
+    margin-right: 1rem; }
+
+.footer-copyright {
+  color: #c7c7c7;
+  font-size: .7rem; }
+
+@media screen and (max-width: 992px) {
+  .card-img-featured {
+    height: 300px; }
+  .card-title-featured {
+    font-size: 2rem;
+    font-weight: 400; } }
+
+@media screen and (max-width: 768px) {
+  .social-buttons {
+    text-align: left; } }
+
+/*******************
+SMALL MOBILE
+*******************/
+@media screen and (max-width: 575px) {
+  .column-spacer {
+    margin: 0; }
+  .card-img-featured {
+    height: 200px; } }
+
+/*******************
+TINY MOBILE
+*******************/
+@media screen and (max-width: 375px) {
+  .main-logo {
+    display: none; }
+  .mobile-logo {
+    display: inline; }
+  .card-img-featured {
+    height: 180px; } }
