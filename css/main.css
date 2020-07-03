@@ -155,7 +155,8 @@
   background-image: url(images/about/team.jpg); }
 
 .volunteer-title-header {
-  background-image: url(images/community/volunteer.jpg); }
+  background-image: url(images/community/volunteer.jpg);
+  background-position: top; }
 
 .forms-header {
   background-image: url(images/technical/forms.jpg); }

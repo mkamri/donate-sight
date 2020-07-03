@@ -49,7 +49,7 @@
     <div class="container divider mb-5"></div>
 
     <h1>Research and Training</h1>
-    <p>Here is a paragraph about how you can get tissue for research and training.</p>
+    <p>We also offer tissue for for the purposes of research and training to hospitals and universities. Please contact us for more information.</p>
     <a href="<?php echo site_url(); ?>/surgeon-form"><span class="btn btn-outline-primary">Request Tissue</span></a>
 </div> <!-- end cards container -->
 
