@@ -1,27 +1,10 @@
-<?php get_header() ?>
+<?php 
 
-<div class="container mb-5">
-    <?php 
-    if ( have_posts() ) {
-        while ( have_posts() ) {
-            the_post(); ?>
-            
-            <div class="container mb-5">
-                <h1 class="my-5"><?php the_title(); ?></h1>
+get_header();
 
-                <div class="container-fluid my-5 divider"></div>
+if (have_posts()) : while (have_posts()) : the_post(); ?>
+<?php the_content(); ?>
+<?php endwhile; endif;
 
-                <div class="container-fluid mb-5">
-                    <?php the_content(); ?>
-                </div>
-                
-                <div class="container-fluid divider mb-5"></div>
-            </div>
-            
-
-        <?php } // end while
-    } // end if
-    ?>
-</div>
-
-<?php get_footer() ?>
+get_footer() 
+?>
