@@ -51,7 +51,7 @@
             <div class="card-img card-img-featured mb-3 community-volunteer"></div>
             <h5 class="mb-2 card-title-featured">Volunteer</h5>
             <p>Learn about volunteer opportunities at LEBWCO</p>
-            <a href="#"><span class="btn btn-outline-primary">Read More</span></a>
+            <a href="<?php echo site_url(); ?>/volunteer"><span class="btn btn-outline-primary">Read More</span></a>
         </div>
     </div>
 </div> <!-- end cards container -->
