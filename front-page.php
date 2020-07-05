@@ -222,7 +222,7 @@
                 <div class="col-md-4 mb-5">
                     <div class="card-img tissue-safety-img mb-3"></div>
                     <h6 class="card-title">Tissue Safety</h6>
-                    <p class="card-description">Learn about our stringent standards for qualifying tissue for transplant</p>
+                    <p class="card-description">Our Quality Standards and Current Licensure</p>
                     <a href="<?php echo site_url() ?>/licensure"><span class="btn btn-outline-primary">Read More</span></a>
                 </div>
                 <div class="col-md-4 mb-5">
