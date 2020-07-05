@@ -73,5 +73,4 @@
     <div class="container">
         <p class="mt-2 mb-5"><a href="<?php echo site_url() ?>/category/recipients" class="blue">View All Recipient Stories <i class="fas fa-arrow-right"></i></a></p>
     </div>
-
-<?php get_footer(); ?>
+    <?php get_footer(); ?>

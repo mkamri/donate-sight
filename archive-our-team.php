@@ -8,7 +8,7 @@ $backgroundImg = get_template_directory_uri() . "/css/images/about/team.jpg";
     <div class="row h-100">
         <div class="col-12 col-md-7 col-lg-5 col-xl-4 h-100 d-flex flex-column justify-content-center title-header-text-area">
             <h2 class="page-title">Our Team</h2>
-            <h4 class="page-subtitle">Meet our current in-house staff</h4>
+            <h4 class="page-subtitle">Meet our current full time staff</h4>
         </div>
     </div>
 </div> <!-- end title header container -->
