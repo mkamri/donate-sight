@@ -38,8 +38,8 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a href="<?php echo site_url() ?>/technical" class="dropdown-item">All Technical Topics</a>
                         <div class="dropdown-divider"></div>
-                        <a href="<?php echo site_url(); ?>/licensure" class="dropdown-item">Tissue Safety & Licensure</a>
                         <a href="<?php echo site_url(); ?>/our-services" class="dropdown-item">Our Services</a>
+                        <a href="<?php echo site_url(); ?>/licensure" class="dropdown-item">Tissue Safety & Licensure</a>
                         <a href="<?php echo site_url() ?>/surgeon-form" class="dropdown-item">Surgeon Form</a>
                     </div>
                 </li>

@@ -22,8 +22,8 @@
                         <div class="col-sm-4 footer-col">
                             <ul class="caps d-none d-sm-block">
                                 <li><a href="<?php echo site_url() ?>/technical" class="orange-link">Technical</a></li>
-                                <li><a href="<?php echo site_url() ?>/licensure">Tissue Safety & Licensure</a></li>
                                 <li><a href="<?php echo site_url() ?>/our-services">Our Services</a></li>
+                                <li><a href="<?php echo site_url() ?>/licensure">Tissue Safety & Licensure</a></li>
                                 <li><a href="<?php echo site_url() ?>/surgeon-form">Surgeon Form</a></li>
                             </ul>
                         </div>
