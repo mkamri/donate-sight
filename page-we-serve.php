@@ -20,7 +20,11 @@
         <h1>We Serve our Community</h1>
         <p class="mb-5"><strong>Like our Lions who founded us, we believe in serving our community. We strive every day to fulfill our mission and serve our community.</strong></p>
 
-        <div class="container-fluid divider mb-5"></div>
+        
+        <div class="container we-serve-mission mb-5 text-center d-flex flex-column align-items-center justify-content-center">
+            <h2 class="mb-3">Our Mission:</h2>
+            <p>We serve donor families, the medical community, and recipients in communities nationally and internationally through education, research, and the gift of sight.</p>
+        </div>
 
         <div class="mb-5">
             <h3 class="blue mb-3">Surgery Assistance</h3>

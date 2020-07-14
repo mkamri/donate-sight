@@ -119,7 +119,7 @@
   background-image: url(images/technical/licensure.jpg); }
 
 .about-title {
-  background-image: url(images/about/facility.jpg); }
+  background-image: url(images/about/building.jpg); }
 
 .about-service {
   background-image: url(images/about/service.jpg); }
@@ -197,6 +197,18 @@
 .license-image:hover {
   box-shadow: 0 0 6px #c7c7c7; }
 
+.we-serve-mission {
+  padding: 3.5rem 2rem;
+  background: #5D9BF7;
+  color: #fcfcfc;
+  font-family: 'Merriweather', serif; }
+  .we-serve-mission p {
+    margin: 0;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    width: 80%;
+    font-weight: 300; }
+
 @media screen and (max-width: 992px) {
   .team-card-img {
     width: 100%; } }
@@ -204,7 +216,9 @@
 @media screen and (max-width: 768px) {
   .team-card-img {
     width: 70%;
-    height: 200px; } }
+    height: 200px; }
+  .we-serve-mission p {
+    width: 100%; } }
 
 @media screen and (max-width: 575px) {
   .team-card {
